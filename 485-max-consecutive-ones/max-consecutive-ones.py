@@ -8,6 +8,6 @@ class Solution:
                 max_cnt=max(count,max_cnt)
             else:
                 count=0
-                max_count=0
+                
         return max_cnt
         
