@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0027-remove-element) |
 | [0485-max-consecutive-ones](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0561-array-partition) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,4 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0561-array-partition) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
