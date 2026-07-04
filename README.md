@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0137-single-number-ii) |
+| [0217-contains-duplicate](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0561-array-partition) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0389-find-the-difference) |
 ## String
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0561-array-partition) |
