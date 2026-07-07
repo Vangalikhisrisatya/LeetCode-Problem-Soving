@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0561-array-partition) |
+| [1732-find-the-highest-altitude](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0176-second-highest-salary) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
