@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0561-array-partition) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0977-squares-of-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0561-array-partition) |
+| [0977-squares-of-a-sorted-array](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
