@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0977-squares-of-a-sorted-array) |
+| [1470-shuffle-the-array](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
