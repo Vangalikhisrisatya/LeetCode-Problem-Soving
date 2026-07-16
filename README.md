@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0392-is-subsequence) |
 ## Number Theory
 |  |
 | ------- |
