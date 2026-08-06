@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/0619-biggest-single-number) |
 | [1075-project-employees-i](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/1075-project-employees-i) |
+| [1729-find-followers-count](https://github.com/Vangalikhisrisatya/LeetCode-Problem-Soving/tree/master/1729-find-followers-count) |
 ## Prefix Sum
 |  |
 | ------- |
